@@ -1,2 +1,2 @@
 # gh-pages
-#temp for assigments
+temp for gymnasium class
