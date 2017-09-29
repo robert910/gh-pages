@@ -1,3 +1,2 @@
 # gh-pages
-temp for mygymnasium assignments
-for now
+#temp for assigments
