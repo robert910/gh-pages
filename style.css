@@ -1,0 +1,66 @@
+body {
+    background-color: #E6E6FA;
+    background-image: url(paisley_3.jpg);
+    background-repeat: repeat;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    padding: 10px;
+  }
+  nav {
+    font-size: 3em;
+    font-weight: bold;
+    font-family: hobo-std, sans-serif;
+  }
+  nav a {
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    color: #800080;
+  } 
+  
+  a {
+    color: red;
+  }
+  
+  a:hover {
+    color: #800080;
+  } 
+  
+  img {
+    max-width: 100%; // for responsive images
+    height: auto;
+  }
+  p img {
+    border: 2px solid red;
+    margin: 2px;
+    padding: 2px;
+  }
+  
+  main p img {
+    border: 2px solid red;
+    margin: 2px;
+    padding: 2px;
+  }
+  
+  footer {
+    background-image: url(paisley_2.png);
+    background-repeat: repeat;
+    border: 1px solid #800080;
+    padding: 0 14px;
+    font-size: .8em;
+    font-family: "Times New Roman", Times, serif;
+  }
+  .floated {
+    float: left;
+    margin-right: 20px;
+  }
+  .position {
+    float: right;
+    margin-left: 20px;
+  }
+  .clear {
+    clear: both;
+  }
+  .margin {
+    margin-bottom: 6px; 
+  }
