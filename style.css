@@ -1,2 +1,12 @@
-*{margin: 0px; padding: 0px;}
-body{background: skyblue;}
+body {
+    margin: 0px;
+   background: #072D3B;
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+font-weight: 300;
+padding: 10px
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
